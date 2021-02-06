@@ -16,6 +16,7 @@ namespace DevEventsAPI.Controllers
                 new Categoria { Id = 2, Descricao = "Desenvolvimento Mobile"},
                 new Categoria { Id = 3, Descricao = "Javascript"},
             };
+
             return Ok(categorias);
         }
     }
