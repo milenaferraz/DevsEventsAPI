@@ -59,5 +59,10 @@ C:\Users\milenaf\Desktop\Exercícios\DevEvents\DevEventsAPI\DevEventsAPI\bin\Deb
 C:\Users\milenaf\Desktop\Exercícios\DevEvents\DevEventsAPI\DevEventsAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
 C:\Users\milenaf\Desktop\Exercícios\DevEvents\DevEventsAPI\DevEventsAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Users\milenaf\Desktop\Exercícios\DevEvents\DevEventsAPI\DevEventsAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\milenaf\Desktop\Exercícios\DevEvents\DevEventsAPI\DevEventsAPI\obj\Debug\netcoreapp3.1\DevEventsAPI.csprojAssemblyReference.cache
 C:\Users\milenaf\Desktop\Exercícios\DevEvents\DevEventsAPI\DevEventsAPI\obj\Debug\netcoreapp3.1\DevEventsAPI.csproj.CopyComplete
+C:\Users\milenaf\Desktop\Exercícios\DevEvents\DevEventsAPI\DevEventsAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\milenaf\Desktop\Exercícios\DevEvents\DevEventsAPI\DevEventsAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\milenaf\Desktop\Exercícios\DevEvents\DevEventsAPI\DevEventsAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\milenaf\Desktop\Exercícios\DevEvents\DevEventsAPI\DevEventsAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\milenaf\Desktop\Exercícios\DevEvents\DevEventsAPI\DevEventsAPI\obj\Debug\netcoreapp3.1\DevEventsAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\milenaf\Desktop\Exercícios\DevEvents\DevEventsAPI\DevEventsAPI\obj\Debug\netcoreapp3.1\DevEventsAPI.csprojAssemblyReference.cache
